@@ -9,5 +9,14 @@ ARRAYS
 ![image](https://github.com/user-attachments/assets/d29d3209-587a-4f2d-ba22-c397efcf54a5)
 
 
+strings
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c998ae80-8555-45ba-98f9-9da431826f81" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cb5ddbc8-0d20-45b5-99e5-032690091193" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/36b75c07-6e80-4ad0-ae2c-d2a23d484edc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bf03687-81e2-4f8c-b783-a17ffbf639d3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baefdf0c-5f5a-4dff-b0d6-8ec5f6499cc3" />
