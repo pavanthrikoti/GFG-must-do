@@ -20,3 +20,7 @@ strings
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0bf03687-81e2-4f8c-b783-a17ffbf639d3" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baefdf0c-5f5a-4dff-b0d6-8ec5f6499cc3" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a3f83fa-6f36-4fe6-b794-b8538c0c0aca" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc0b2e09-315a-4aac-bd3c-be0a460f77cd" />
